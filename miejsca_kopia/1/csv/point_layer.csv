@@ -1,0 +1,53 @@
+typ,gdzie,lg_attach,numerzdj,Nazwa ob,adres,Opis,sciezkazdj,icon_url
+miejsce odpoczynku,radunin,[],,,"-",Miejsce do siedzenia wraz ze stołem,,./0.png
+tablica informacyjna,radunin,[],"1",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\1.jpg""",./1.png
+atrakcja,wyżary,[],"2",,"-",Zbiornik wodny Wyżary - Kliknij żeby zobaczyć zdjęcie,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\2.jpg""",./2.png
+miejsce odpoczynku,,[],,,"-",Miejsce do siedzenia wraz ze stołem i miejscem na ognisko,,./0.png
+tablica informacyjna,chomontowszczyzna,[],"4",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\4.jpg""",./1.png
+atrakcja,kładka,[],"3",,"-",Kładka przez mokradła (Kliknij żeby zobaczyć zdjęcie),"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\3.jpg""",./2.png
+tablica informacyjna,,[],"5",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\5.jpg""",./1.png
+miejsce odpoczynku,,[],nie,,"-",Miejsce do siedzenia wraz ze stołem,,./0.png
+historyczne,Popówka,[],"6",,"-",Miejsce pamięci po mieszkańcach spacyfikowanej wsi Popówka (Kliknij żeby zobaczyć zdjęcie),"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\6.jpg""",./3.png
+tablica informacyjna,Królowy most,[],"7",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\7.jpg""",./1.png
+historyczne,Królowy most,[],"8",,"-",Powstańcza mogiła (Kliknij żeby zobaczyć zdjęcie),"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\8.jpg""",./3.png
+tablica informacyjna,,[],"9",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\9.jpg""",./1.png
+atrakcja,wieża widokowa,[],"10",,"-",Wieża widokowa z panoramą puszczy knyszyńskiej i doliną rzeki Supraśl (Kliknij żeby zobaczyć zdjęcie),"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\10.jpg""",./2.png
+miejsce odpoczynku,,[],,,"-",Miejsce do siedzenia wraz ze stołem,,./0.png
+tablica informacyjna,,[],"11",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\11.jpg""",./1.png
+miejsce odpoczynku,borki,[],,,"-",Miejsce do siedzenia wraz ze stołem,,./0.png
+tablica informacyjna,surażkowo,[],"12",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\12.jpg""",./1.png
+miejsce odpoczynku,surażkowo,[],,,"-",Miejsce do siedzenia wraz ze stołem,,./0.png
+historyczne,miejsce stracen,[],,,"-","Miejsce straceń. Leśna galeria rzeźby ""Co pamięta stary dąb""",,./3.png
+historyczne,kopna góra,[],"13",,"-",Cmentarz powstańców styczniowych. (Kliknij żeby zobaczyć zdjęcie),"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\13.jpg""",./3.png
+atrakcja,arboretum,[],,,"-",Arboretum im. Powstańców,,./2.png
+miejsce odpoczynku,kopną góra,[],,,"-",Miejsce do siedzenia wraz ze stołem,,./0.png
+tablica informacyjna,budzisk,[],"15",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\15.jpg""",./1.png
+historyczne,waliły,,,,"-",Mogiła powstańcza Bitwy pod Waliłami,,./3.png
+historyczne,taboły,,,,"-",Góra powstańców w Rezerwacie Taboły,,./3.png
+atrakcja,czarna białostock,,,,"-","Kolejka Leśna, stacja w Czarnej Białostockiej",,./2.png
+start,waliły,,,,"-",Rozpoczęcie ścieżki,,./4.png
+stop,,,,,"-",Zakończenie ścieżki,,./4.png
+nocleg,Waliły,,,Agroturystyka Waliły,Waliły 15 16-040 Gródek,Agroturystyka Waliły,,./1.png
+nocleg,Waliły-Stacja,,,Noclegi Halina Mieleszko,"ul. Szosa Wschodnia 22
+16-040 Waliły-Stacja",Noclegi Halina Mieleszko,,./1.png
+gastro,Waliły-Stacja,,,“Zajazd przy Granicy”,"ul. Szosa Wschodnia 3
+16-040 Waliły-Stacja",“Zajazd przy Granicy”,,./5.png
+nocleg,Waliły-Stacja,,,“Zajazd przy Granicy”,"ul. Szosa Wschodnia 3
+16-040 Waliły-Stacja",“Zajazd przy Granicy”,,./1.png
+nocleg,Radunin,,,Przy Chlebowym Piecu,Radunin 35,Przy Chlebowym Piecu,,./1.png
+nocleg,Królowy Most,,,U PANA BOGA W OGRÓDKU,"Królowy Most 144
+16-040 Gródek",U PANA BOGA W OGRÓDKU,,./1.png
+nocleg,Łaźnie,,,Leśny Zakątek,"Łażnie 31
+16-030 Supraśl",Leśny Zakątek,,./1.png
+nocleg,Surażkowo,,,Ritowisko,"Surażkowo 27
+16-030 Supraśl",Ritowisko,,./1.png
+nocleg,Konne,,,Krzemienna Chata pod Supraślem,"Konne 109/1
+16-030 Supraśl",Krzemienna Chata pod Supraślem,,./1.png
+gastro,Sokołda,,,Zajazd Sokołda,"Sokołda 1
+16-030 Supraśl",Zajazd Sokołda,,./5.png
+gastro,Czarna Białostocka,,,Karczma za Płotem,"ul. Białostocka 52
+16-020 Czarna Białostocka",Karczma za Płotem,,./5.png
+gastro,Czarna Białostocka,,,Bar Max,"ul. Białostocka 12
+16-020 Czarna Białostocka",Bar Max,,./5.png
+tablica informacyjna,Kopna góra,,"14",,"-",Kliknij po więcej informacji,"""C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\14.jpg""",./1.png
+C:\Users\Grzesiek\Desktop\inzynierka\zdjecia\1.jpg,,,,,,,,
